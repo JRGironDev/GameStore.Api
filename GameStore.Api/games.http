@@ -1,14 +1,13 @@
 GET http://localhost:5104/games
 
 ###
-GET http://localhost:5104/games/10
+GET http://localhost:5104/games/3
 
 ###
 POST http://localhost:5104/games
 Content-Type: application/json
 
 {
-    "name" : "Minecraft",
     "genre": "Kids And Family",
     "price": 19.99,
     "releaseDate": "2011-11-18"
