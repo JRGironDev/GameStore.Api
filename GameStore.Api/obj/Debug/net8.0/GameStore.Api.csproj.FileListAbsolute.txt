@@ -23,3 +23,4 @@
 /Users/josequinonez/C#/ASP.NET/GameStore/GameStore.Api/obj/Debug/net8.0/GameStore.Api.pdb
 /Users/josequinonez/C#/ASP.NET/GameStore/GameStore.Api/obj/Debug/net8.0/GameStore.Api.genruntimeconfig.cache
 /Users/josequinonez/C#/ASP.NET/GameStore/GameStore.Api/obj/Debug/net8.0/ref/GameStore.Api.dll
+/Users/josequinonez/C#/ASP.NET/GameStore/GameStore.Api/obj/Debug/net8.0/GameStore.Api.sourcelink.json
