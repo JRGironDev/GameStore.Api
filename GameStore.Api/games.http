@@ -8,10 +8,10 @@ POST http://localhost:5104/games
 Content-Type: application/json
 
 {
-    "name": "Donkey Kong",
+    "name": "Donkey Kong 2",
     "genreid": 1,
     "price": 19.99,
-    "releaseDate": "2011-12-11"
+    "releaseDate": "2014-12-11"
 }
 
 ###
